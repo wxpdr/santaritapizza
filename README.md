@@ -87,13 +87,10 @@ Acesse o projeto online:
 
 ## 🖼️ Preview
 
-> Adicione aqui prints do projeto para deixar o README mais visual.
-
-Sugestão de imagens:
 
 ```md
-![Preview da página inicial](./img/preview-home.png)
-![Preview do cardápio](./img/preview-cardapio.png)
+![Preview da página inicial](./imagens-reame/preview-home.png)
+![Preview do cardápio](./imagens-readme/preview-cardapio.png)
 ```
 
 ---
