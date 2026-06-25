@@ -87,8 +87,10 @@ Acesse o projeto online:
 
 ## 🖼️ Preview
 
-
+### Página inicial
 ![Preview da página inicial](./imagens-readme/preview-home.png)
+
+### Cardápio
 ![Preview do cardápio](./imagens-readme/preview-cardapio.png)
 
 
