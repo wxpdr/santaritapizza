@@ -89,7 +89,7 @@ Acesse o projeto online:
 
 
 ```md
-![Preview da página inicial](./imagens-reame/preview-home.png)
+![Preview da página inicial](./imagens-readme/preview-home.png)
 ![Preview do cardápio](./imagens-readme/preview-cardapio.png)
 ```
 
