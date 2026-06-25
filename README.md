@@ -1,12 +1,13 @@
 <h1 align="center">🍕 Santa Rita Pizza</h1>
 
 <p align="center">
-  Landing page e cardápio digital para uma pizzaria, desenvolvido com HTML, CSS e JavaScript.
+  Landing page e cardápio digital desenvolvido para uma pizzaria real, com foco em apresentação comercial, navegação simples e experiência responsiva.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JS-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Finalizado-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projeto-Cliente%20real-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" />
 </p>
 
@@ -14,29 +15,32 @@
 
 ## ✨ Sobre o projeto
 
-O **Santa Rita Pizza** é um projeto front-end criado para apresentar uma pizzaria por meio de uma interface simples, visual e funcional.
+O **Santa Rita Pizza** é um projeto front-end comercial desenvolvido para uma pizzaria, com o objetivo de apresentar o negócio de forma clara, visual e acessível.
 
-A proposta do projeto é simular uma página comercial com foco em apresentação da marca, navegação intuitiva e acesso ao cardápio digital. Ele foi desenvolvido como prática de estruturação de páginas web, organização visual, responsividade e interações com JavaScript.
+A proposta foi criar uma página simples e funcional, permitindo que clientes conheçam a pizzaria, naveguem pelo cardápio digital e encontrem as principais informações do estabelecimento com facilidade.
+
+Este projeto foi finalizado e entregue ao cliente.
 
 ---
 
 ## 🎯 Objetivo
 
-Criar uma experiência web para uma pizzaria, permitindo que o usuário conheça a proposta do negócio e acesse o cardápio de forma simples e direta.
+Criar uma presença digital para a pizzaria, oferecendo uma página web com identidade visual, apresentação dos produtos e acesso simples ao cardápio.
 
-Este projeto também faz parte da minha construção de portfólio front-end, com foco em páginas comerciais, landing pages e interfaces voltadas para pequenos negócios.
+O projeto foi pensado para ser direto, leve e fácil de navegar, especialmente para usuários que acessam pelo celular.
 
 ---
 
-## 🧩 Funcionalidades
+## 🧩 Funcionalidades entregues
 
 * Página inicial de apresentação da pizzaria
-* Página de cardápio
+* Cardápio digital
 * Listagem de produtos
 * Organização visual por seções
-* Estrutura de arquivos separada por responsabilidade
-* Uso de HTML, CSS e JavaScript
-* Deploy online com Vercel
+* Estrutura responsiva
+* Navegação simples entre páginas
+* Deploy online
+* Estrutura de arquivos organizada por responsabilidade
 
 ---
 
@@ -47,10 +51,11 @@ Este projeto também faz parte da minha construção de portfólio front-end, co
 </p>
 
 * **HTML5** — estrutura das páginas
-* **CSS3** — estilização e organização visual
-* **JavaScript** — interações e manipulação de dados
+* **CSS3** — estilização, identidade visual e responsividade
+* **JavaScript** — interações e manipulação de dados do cardápio
 * **Vercel** — publicação do projeto
-* **Git e GitHub** — versionamento e hospedagem do código
+* **Git e GitHub** — versionamento e organização do código
+* **VS Code** — ambiente de desenvolvimento
 
 ---
 
@@ -61,7 +66,7 @@ santaritapizza/
 ├── css/
 │   └── arquivos de estilo
 ├── dados/
-│   └── arquivos com dados do cardápio
+│   └── dados utilizados no cardápio
 ├── img/
 │   └── imagens utilizadas no projeto
 ├── js/
@@ -85,7 +90,7 @@ Acesse o projeto online:
 
 > Adicione aqui prints do projeto para deixar o README mais visual.
 
-Exemplo:
+Sugestão de imagens:
 
 ```md
 ![Preview da página inicial](./img/preview-home.png)
@@ -94,53 +99,48 @@ Exemplo:
 
 ---
 
+## 💼 Tipo de projeto
+
+Este foi um projeto desenvolvido para cliente real, com escopo voltado para presença digital simples e apresentação de produtos.
+
+O foco da entrega foi criar uma solução web objetiva para um pequeno negócio, priorizando clareza, estética, responsividade e facilidade de acesso às informações.
+
+---
+
 ## 🧠 Aprendizados
 
 Durante o desenvolvimento deste projeto, pratiquei:
 
-* criação de páginas web com HTML;
-* organização visual com CSS;
-* separação de arquivos por pastas;
-* uso de JavaScript para trabalhar com interações e dados;
-* estruturação de um projeto front-end;
-* publicação de projeto na Vercel;
-* apresentação de um projeto no GitHub de forma mais profissional.
+* criação de páginas comerciais com HTML, CSS e JavaScript;
+* organização de estrutura front-end;
+* construção de cardápio digital;
+* adaptação visual para um negócio real;
+* publicação de projeto com Vercel;
+* cuidado com apresentação, navegação e responsividade;
+* entrega de um projeto real para cliente.
 
 ---
 
-## 🔮 Melhorias futuras
+## 🔮 Possíveis evoluções futuras
 
-* Melhorar a responsividade em diferentes tamanhos de tela
-* Adicionar filtros por categoria no cardápio
-* Criar botão de chamada para WhatsApp
-* Melhorar acessibilidade dos botões, links e imagens
-* Adicionar animações leves
-* Otimizar imagens
-* Criar uma seção de localização e horário de funcionamento
-* Melhorar a experiência visual do cardápio
+As melhorias abaixo não fazem parte obrigatória do escopo entregue, mas são possibilidades para versões futuras:
 
----
-
-## 💡 Contexto
-
-Este projeto foi desenvolvido como parte da minha evolução em desenvolvimento front-end, com foco em criação de interfaces para negócios locais e páginas web simples.
-
-A ideia é praticar não só o código, mas também a forma de apresentar um projeto: com objetivo claro, organização, documentação e deploy funcional.
+* adicionar filtros por categoria no cardápio;
+* incluir botão direto para WhatsApp;
+* melhorar animações e transições;
+* otimizar imagens;
+* adicionar seção de localização e horário de funcionamento;
+* criar painel simples para atualização do cardápio;
+* melhorar recursos de acessibilidade.
 
 ---
 
 ## 👩‍💻 Desenvolvedora
 
-Feito por **Wendy** 🌸
-
-<p>
-  <a href="https://github.com/wxpdr">
-    <img src="https://img.shields.io/badge/GitHub-wxpdr-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Projeto desenvolvido por **Wendy** 🌸
 
 ---
 
 <p align="center">
-  Feito com HTML, CSS, JavaScript e uma boa fatia de criatividade 🍕✨
+  Projeto finalizado, entregue e feito com HTML, CSS, JavaScript e uma boa fatia de criatividade 🍕✨
 </p>
