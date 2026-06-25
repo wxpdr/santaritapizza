@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Finalizado-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projeto-Cliente%20real-ffb6c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" />
 </p>
