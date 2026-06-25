@@ -118,20 +118,6 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ---
 
-## 🔮 Possíveis evoluções futuras
-
-As melhorias abaixo não fazem parte obrigatória do escopo entregue, mas são possibilidades para versões futuras:
-
-* adicionar filtros por categoria no cardápio;
-* incluir botão direto para WhatsApp;
-* melhorar animações e transições;
-* otimizar imagens;
-* adicionar seção de localização e horário de funcionamento;
-* criar painel simples para atualização do cardápio;
-* melhorar recursos de acessibilidade.
-
----
-
 ## 👩‍💻 Desenvolvedora
 
 Projeto desenvolvido por **Wendy** 🌸
